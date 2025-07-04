@@ -1,7 +1,7 @@
 
 # Form Template Builder
 
-![Form Builder Demo](demo.gif) *Add a demo GIF here*
+
 
 A powerful form template builder that allows users to create custom form templates with drag-and-drop functionality. Create templates with various field types, arrange them in sections, and generate forms based on those templates.
 
